@@ -1,0 +1,19 @@
+{
+  "name": "ts-block-chain",
+  "version": "1.0.0",
+  "description": "ts-block-chain",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc && node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.14.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vite": "^6.3.1"
+  }
+}
